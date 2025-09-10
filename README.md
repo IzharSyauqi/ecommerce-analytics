@@ -74,10 +74,29 @@ ecommerce-analytics-repo/
    ```
 
 ## 📊 Results & Insights (examples)
-- Top-performing product categories and seasonal spikes  
-- Delivery performance vs. customer satisfaction signals  
+
+- Top-performing product categories and seasonal spikes
+<img width="1189" height="589" alt="image" src="https://github.com/user-attachments/assets/4f0d4092-2158-4c8d-84f4-7a26999516ea" />
+
+<img width="1190" height="590" alt="image" src="https://github.com/user-attachments/assets/d3a02393-bd5f-4e2c-809f-cc1265393242" />
+
+- Order fulfillment and delivery performance 
+<img width="1431" height="590" alt="image" src="https://github.com/user-attachments/assets/11e2ab97-3dda-4b9e-ae90-dc385413cb6c" />
+ORDER FULFILLMENT INSIGHTS:
+| Order completion rate: 97.9%
+| Total orders processed: 89,316
+
+<img width="1189" height="590" alt="image" src="https://github.com/user-attachments/assets/aa57f6c6-62d9-4bbd-a913-c590e1e80940" />
+| Average delivery time: 11.3 days
+| Fast (<7 days): 30.5% of orders
+| Delayed (>15 days): 21.8% of orders
+
 - Geographic clusters with high revenue per customer  
-- Actionable recommendations for marketing & logistics
+<img width="1489" height="590" alt="image" src="https://github.com/user-attachments/assets/6a58de56-eb2c-4f39-b89b-a8e5564615d2" />
+GEOGRAPHIC INSIGHTS:
+ Top customer state: sp (37,879 customers)
+| Top revenue state: sp ($14,586,002.19)
+| Geographic concentration: Top 5 states = 69,235 customers (80.6% of total)
 
 ## 🧭 Next Steps
 - Add interactive dashboards (Plotly/Power BI)  
