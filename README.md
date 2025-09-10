@@ -35,7 +35,7 @@ ecommerce-analytics-repo/
 ## ▶️ How to Run
 1. **Clone** the repository:
    ```bash
-   git clone https://github.com/YOURUSERNAME/ecommerce-analytics.git
+   git clone https://github.com/IzharSyauqi/ecommerce-analytics.git
    cd ecommerce-analytics
    ```
 2. (Optional) **Create a virtual environment**:
