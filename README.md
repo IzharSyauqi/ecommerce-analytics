@@ -14,7 +14,7 @@ It follows a clear workflow: **data cleaning → exploratory data analysis (EDA)
 ## 🧰 Tools & Technologies
 - **Python**: Pandas, Matplotlib, Seaborn  
 - **Jupyter Notebook**  
-- **Excel/CSV** data handling  
+- **CSV** data handling  
 
 ## 📁 Repository Structure
 ```
