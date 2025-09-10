@@ -5,6 +5,23 @@
 This repository analyzes an **E-Commerce dataset** to understand customer behavior and evaluate business performance.  
 It follows a clear workflow: **data cleaning → exploratory data analysis (EDA) → visualization → insights**.
 
+## 📦 Data Access (Kaggle)
+Dataset: https://www.kaggle.com/datasets/bytadit/ecommerce-order-dataset
+
+```bash
+pip install kaggle
+kaggle datasets download -d bytadit/ecommerce-order-dataset -p data/raw --unzip
+
+
+## 🚀 Quickstart
+```bash
+python -m venv .venv
+# Windows PowerShell:
+. .venv\Scripts\Activate.ps1
+python -m pip install --upgrade pip
+python -m pip install -r requirements.txt jupyter ipykernel
+python -m ipykernel install --user --name ecommerce-venv --display-name "Python (ecommerce-venv)"
+
 ### Objectives
 - Clean and prepare raw data for analysis  
 - Explore customer purchasing patterns and segmentation  
