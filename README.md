@@ -98,6 +98,10 @@ GEOGRAPHIC INSIGHTS:
 | Top revenue state: sp ($14,586,002.19)
 | Geographic concentration: Top 5 states = 69,235 customers (80.6% of total)
 
+## 📄 Slide Deck
+[Download the Ecommerce business analysis presentation (PDF)](docs/ecommerce-business-intelligence-analysis.pdf)
+
+
 ## 🧭 Next Steps
 - Add interactive dashboards (Plotly/Power BI)  
 - Apply ML for churn/CLV prediction  
